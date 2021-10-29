@@ -4,14 +4,14 @@ Wire-Frame: https://www.figma.com/file/28mWPBCIL9vejQUwl5zG1A/Untitled?node-id=0
 
 Caixas de Diálogo
 
-- [x] prompt
-- [x] alert
-- [x] confirm
+- [ ] prompt
+- [ ] alert
+- [ ] confirm
 
 Temporizadores
 
-- [x] setInterval
-- [x] setTimeout
+- [ ] setInterval
+- [ ] setTimeout
 
 Funções
 

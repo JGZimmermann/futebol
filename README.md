@@ -6,22 +6,22 @@ Caixas de Diálogo
 
 - [ ] prompt
 - [X] alert
-- [ ] confirm
+- [X] confirm
 
 Temporizadores
 
-- [ ] setInterval
-- [ ] setTimeout
+- [X] setInterval
+- [X] setTimeout
 
 Funções
 
 - [ ] Função anônima com argumento
-- [ ] Função anônima sem argumento
+- [X] Função anônima sem argumento
 - [ ] Função anônima com retorno
-- [ ] Função auto-executável
+- [X] Função auto-executável
 - [X] Função com nome
-- [ ] Função aninhada/local - declarar uma função dentro de outra
-- [ ] Passagem de uma função como parâmetro
+- [X] Função aninhada/local - declarar uma função dentro de outra
+- [X] Passagem de uma função como parâmetro
 - [ ] Função Flecha - Arrow Function
 
 Eventos
@@ -39,12 +39,12 @@ Acesso aos elementos DOM do HTML
 - [X] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [X] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 Tratadores de Evento
 
 - [ ] Especificar o tratador de evento inline
-- [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
+- [X] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
 - [ ] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
 - [ ] Usar o operador this em funções tratadoras de eventos.
 

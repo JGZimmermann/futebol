@@ -4,7 +4,7 @@ Wire-Frame: https://www.figma.com/file/28mWPBCIL9vejQUwl5zG1A/Untitled?node-id=0
 
 Caixas de Diálogo
 
-- [ ] prompt
+- [X] prompt
 - [X] alert
 - [X] confirm
 
@@ -15,10 +15,10 @@ Temporizadores
 
 Funções
 
-- [ ] Função anônima com argumento
+- [X] Função anônima com argumento
 - [X] Função anônima sem argumento
 - [ ] Função anônima com retorno
-- [X] Função auto-executável
+- [ ] Função auto-executável
 - [X] Função com nome
 - [X] Função aninhada/local - declarar uma função dentro de outra
 - [X] Passagem de uma função como parâmetro

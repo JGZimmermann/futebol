@@ -4,24 +4,24 @@ Wire-Frame: https://www.figma.com/proto/RtTeVoOrKAMHcoPI9BhptP/Meteu-Essa?node-i
 
 Caixas de Diálogo
 
-- [X] prompt
+- [] prompt
 - [X] alert
 - [X] confirm
 
 Temporizadores
 
-- [X] setInterval
-- [X] setTimeout
+- [] setInterval
+- [] setTimeout
 
 Funções
 
-- [X] Função anônima com argumento
-- [X] Função anônima sem argumento
-- [X] Função anônima com retorno
+- [ ] Função anônima com argumento
+- [ ] Função anônima sem argumento
+- [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [X] Função com nome
-- [X] Função aninhada/local - declarar uma função dentro de outra
-- [X] Passagem de uma função como parâmetro
+- [ ] Função com nome
+- [ ] Função aninhada/local - declarar uma função dentro de outra
+- [ ] Passagem de uma função como parâmetro
 - [ ] Função Flecha - Arrow Function
 
 Eventos
@@ -39,7 +39,7 @@ Acesso aos elementos DOM do HTML
 - [X] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [X] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 Tratadores de Evento
 

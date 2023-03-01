@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Corinthians",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/corinthians_xljoea.png",
+        "titulos": "Unico brasileiro Bi-campeão do mundial de clubes FIFA",
+        "Fundado": "1910"
+    },
+    {
+        "nome": "Flamengo",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/flamengo_ri09ll.png",
+        "titulos": "Perdeu 3 títulos em 2 meses",
+        "Fundado": "1895"
+    },
+    {
+        "nome": "Vasco da Gama",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/vasco_olnlb1.png",
+        "titulos": "Libertadores em 1999",
+        "Fundado": "1898"
+    },
+    {
+        "nome": "São Paulo",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/saopaulo_xpxzal.png",
+        "titulos": "Tri-campeão mundial de clubes",
+        "Fundado": "1930"
+    },
+    {
+        "nome": "Athlético Paranaense",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678139/meteu%20essa/cap_akgid9.png",
+        "titulos": "Campeão da Sula-americana",
+        "Fundado": "1924"
+    }
+]

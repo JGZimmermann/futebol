@@ -4,30 +4,30 @@ Wire-Frame: https://www.figma.com/proto/RtTeVoOrKAMHcoPI9BhptP/Meteu-Essa?node-i
 
 Caixas de Diálogo
 
-- [X] prompt
+- [ ] prompt
 - [X] alert
-- [X] confirm
+- [ ] confirm
 
 Temporizadores
 
 - [ ] setInterval
-- [ ] setTimeout
+- [X] setTimeout
 
 Funções
 
 - [ ] Função anônima com argumento
-- [X] Função anônima sem argumento
+- [ ] Função anônima sem argumento
 - [ ] Função anônima com retorno
-- [X] Função auto-executável
+- [ ] Função auto-executável
 - [X] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
-- [ ] Função Flecha - Arrow Function
+- [X] Função Flecha - Arrow Function
 
 Eventos
 
 - [X] Evento de carregamento do documento - onload
-- [X] Evento de movimento do mouse
+- [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
 - [ ] Imprimir alguma propriedade do objeto event recebido como parâmetro
@@ -37,7 +37,7 @@ Acesso aos elementos DOM do HTML
 
 - [ ] Via referência DOM pelo id do elemento HTML
 - [X] Via getElementByID()
-- [ ] Via getElementsByName()
+- [X] Via getElementsByName()
 - [ ] Via getElementsByTagName()
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
@@ -53,7 +53,7 @@ Objetos Nativos
 - [ ] Usar pelo menos 3 métodos de manipulação de array
 - [X] Usar laço de repetição (for..in ou for..of ou forEach)
 - [ ] Usar pelo menos 3 métodos para manipulação de string
-- [X] String Template
+- [ ] String Template
 
 Objetos
 
@@ -68,7 +68,7 @@ Qualidade do código
 - [ ] Usar strict mode
 - [ ] Usar Module Pattern
 - [ ] Usar pasta assets e subpastas resources e libraries para organizar o código
-- [ ] Usar let ou const ao invés de var
+- [X] Usar let ou const ao invés de var
 - [ ] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
 
 Formulário
@@ -78,9 +78,9 @@ Formulário
   - [ ] Customizar as mensagens nos balões de mensagem
   - [ ] Usar os atributos de validação dos inputs
   - [ ] Usar expressões regulares
-- [ ] Ler e escrever em elementos input com a propriedade value
-- [ ] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
-- [ ] Manipulação de elemento de listagem, como checkbox, radio ou select
+- [X] Ler e escrever em elementos input com a propriedade value
+- [X] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
+- [X] Manipulação de elemento de listagem, como checkbox, radio ou select
 - [ ] Acesso aos elementos de um formulário via hierarquia (caminho) de objetos, ou seja, array forms e elements
 
 jQuery
@@ -96,9 +96,9 @@ jQuery
 
 Web Storage
 
-- [ ] LocalStorage ou SessionStorage
-- [ ] Leitura e escrita de dados simples
-- [ ] Leitura e escrita de JSON
+- [X] LocalStorage ou SessionStorage
+- [X] Leitura e escrita de dados simples
+- [X] Leitura e escrita de JSON
 
 Ajax com Backend
 

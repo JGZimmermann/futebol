@@ -6,7 +6,7 @@ Caixas de Diálogo
 
 - [ ] prompt
 - [X] alert
-- [ ] confirm
+- [X] confirm
 
 Temporizadores
 

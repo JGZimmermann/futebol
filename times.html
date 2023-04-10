@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="icon" href="images/logoclean.png">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Times</title>
+    <nav>
+        <div class="nav-wrapper black">
+          <a href="home.html" class="brand-logo center"><img src="images/logo.png" width="16%"></a>
+          <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="comentarios.html">Comentários</a></li>
+            <li><a href="tabela.html">Tabela</a></li>
+            <li><a href="perfil.html"><i class="material-icons">person</i></a></li>
+          </ul>
+        </div>
+      </nav>
+      <ul class="sidenav" id="mobile-demo">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="comentarios.html">Comentários</a></li>
+        <li><a href="perfil.html">Perfil</a></li>
+        <li><a href="tabela.html">Tabela</a></li>
+      </ul>
+</head>
+<body onload="buildTeams()">
+    <div class="container center-align" style="margin-top: 5em;">
+        <button class="btn black" value="Gigante" id="time-gigante" style="margin-right: 5em;">Filtrar por time gigante</button>
+        <button class="btn black" value="Grande" id="time-grande" style="margin-right: 5em;">Filtrar por time grande</button>
+        <button class="btn black" value="Pequeno" id="time-pequeno">Filtrar por time pequeno</button>
+    </div>
+    <div id="info"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="script/materializeScript.js"></script>
+    <script src="script/script.js"></script>
+</body>
+</html>

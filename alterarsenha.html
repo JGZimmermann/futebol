@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="icon" href="images/logoclean.png">
+    <title>Alterar Senha</title>
+    <nav>
+        <div class="nav-wrapper black">
+          <a href="home.html" class="brand-logo center"><img src="images/logo.png" width="16%"></a>
+          <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="home.html">Home</a></li>
+
+          </ul>
+        </div>
+      </nav>
+      <ul class="sidenav" id="mobile-demo">
+        <li><a href="#!">Home</a></li>
+      </ul>
+</head>
+<body onload="fillInput()">
+    <div id="signUpForm">
+        <h1 class="center">Alterar Senha</h1>
+        <div class="row">
+            <form class="col s12">
+            <div class="input-field col s6 offset-s3">
+                <input id="sessionUser" type="text" class="validate">
+                <label for="sessionUser">Nome</label>
+            </div>
+            <div class="input-field col s6 offset-s3">
+                <input id="sessionPassword" type="text" class="validate">
+                <label for="sessionPassword"> Nova senha</label>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="row">
+        <a class="waves-effect waves-light btn black col s2 offset-s5" onclick="changePassword()">Mudar Senha</a>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="script/materializeScript.js"></script>
+    <script src="script/script.js"></script>
+</body>
+</html>

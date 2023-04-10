@@ -1,0 +1,142 @@
+[
+    {
+        "nome": "Corinthians",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/corinthians_xljoea.png",
+        "titulos": "Unico brasileiro Bi-campeão do mundial de clubes FIFA",
+        "Fundado": "1910",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "Flamengo",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/flamengo_ri09ll.png",
+        "titulos": "Perdeu 3 títulos em 2 meses",
+        "Fundado": "2019",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Vasco da Gama",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/vasco_olnlb1.png",
+        "titulos": "Libertadores em 1999 e ser maior clube do Rio de Janeiro",
+        "Fundado": "1898",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "São Paulo",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678140/meteu%20essa/saopaulo_xpxzal.png",
+        "titulos": "Tri-campeão mundial de clubes",
+        "Fundado": "1930",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "Athlético Paranaense",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1663678139/meteu%20essa/cap_akgid9.png",
+        "titulos": "Último campeão brasileiro da Sul-americana",
+        "Fundado": "1924",
+        "categoria": "Grande"
+    },
+    {
+        "nome": "Bahia",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115042/meteu%20essa/ECBahia_aur8ux.png",
+        "titulos": "Taça Brasil de 1959, se tornando o primeiro campeão nacional",
+        "Fundado": "1931",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Coritiba",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/coritiba-logo-escudo-2_u99hox.png",
+        "titulos": "Segundo maior clube de Curitiba",
+        "Fundado": "1909",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Red Bull Bragantino",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/RedBullBragantino_mebuge.png",
+        "titulos": "Melhor time patrocinado por energético do Brasil",
+        "Fundado": "1928",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "América Mineiro",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/america-mineiro-logo_tfvjxv.png",
+        "titulos": "Bi-Campeão série B",
+        "Fundado": "1912",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Atlético Mineiro",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/Escudo_atletico_mineiro_jpznav.png",
+        "titulos": "Campeão da Libertadores em 2013",
+        "Fundado": "1908",
+        "categoria": "Grande"
+    },
+    {
+        "nome": "Botafogo",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/botafogo-logo-0-2048x2048_npuaba.png",
+        "titulos": "Campeão Brasileiro 1995",
+        "Fundado": "1904",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Cuiabá",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/Cuiab%C3%A1EC2020_rg420c.png",
+        "titulos": "Ser apelidado de Cuiabayern",
+        "Fundado": "2001",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Grêmio",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/gremio-logo-escudo_r6qzku.png",
+        "titulos": "Bi-campeão da libertadores",
+        "Fundado": "1903",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "Cruzeiro",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115041/meteu%20essa/Cruzeiro_Esporte_Clube-logo-64B9873FDB-seeklogo.com_w7dutv.png",
+        "titulos": "Maior campeão do campeonato mineiro",
+        "Fundado": "1921",
+        "categoria": "Grande"
+    },
+    {
+        "nome": "Internacional",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/logo-internacional-1536_exfsap.png",
+        "titulos": "Campeão mundial FIFA",
+        "Fundado": "1909",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "Fluminense",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/logo-fluminense-2048_tubbuf.png",
+        "titulos": "Único clube de futebol no mundo a ter conquistado a Taça Olímpica",
+        "Fundado": "1902",
+        "categoria": "Grande"
+    },
+    {
+        "nome": "Goiás",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/1024px-Goias_Esporte_Clube_logo.svg_brleof.png",
+        "titulos": "Bi-Campeão série B",
+        "Fundado": "1943",
+        "categoria": "Pequeno"
+    },
+    {
+        "nome": "Fortaleza",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/fortaleza-ec-logo-escudo-4_xlpr0d.png",
+        "titulos": "Maior campeão do campeonato cearense junto com seu rival",
+        "Fundado": "1918",
+        "categoria": "Grande"
+    },
+    {
+        "nome": "Santos",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/LogoSantosFC_sf8hdu.png",
+        "titulos": "Tri-campeão da libertadores e clube que revelou Pelé e Neymar",
+        "Fundado": "1912",
+        "categoria": "Gigante"
+    },
+    {
+        "nome": "Palmeiras",
+        "imagem": "https://res.cloudinary.com/df9vsxetm/image/upload/v1678115040/meteu%20essa/logo-palmeiras-2048_zsqean.png",
+        "titulos": "Bi-rebaixado para série B",
+        "Fundado": "2016",
+        "categoria": "Pequeno"
+    }
+]

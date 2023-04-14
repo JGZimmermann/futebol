@@ -8,7 +8,7 @@ let usuario = localStorage.getItem("sessionUser")
 const endpointDaAPI = "https://res.cloudinary.com/df9vsxetm/raw/upload/v1678121235/meteu%20essa/times_qbbkfp.json"
 let users = JSON.parse(localStorage.getItem('usuarios') || '[]')
 localStorage.setItem('usuarios',JSON.stringify(users))
-apiResult()
+
 
 async function apiResult(){
     const res = await fetch(endpointDaAPI)
@@ -359,3 +359,5 @@ function getLocalStorageComments(){
         }
         )
 }
+
+apiResult()

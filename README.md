@@ -21,7 +21,7 @@ Funções
 - [ ] Função auto-executável
 - [X] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
-- [X] Passagem de uma função como parâmetro
+- [ ] Passagem de uma função como parâmetro
 - [X] Função Flecha - Arrow Function
 
 Eventos
